@@ -1,0 +1,9 @@
+nav{
+    background-color: rgb(6, 12, 34) !important;
+    position: relative;
+}
+
+nav .dropdown{
+    position: absolute;
+    right: 15px;
+}
